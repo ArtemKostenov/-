@@ -1,0 +1,19 @@
+body {
+  background-color: #41A317; /* Lime Green */
+  font-family: Arial, Verdana, Sans-serif;
+}
+
+div#mainFrame {
+  background-color: #52D017; /* Yellow-Green*/
+  position: absolute;
+  right: 50%; 
+}
+
+div.bBlue {
+    background-color: lightblue;
+}
+
+span.answer-wrong {
+  text-decoration: line-through;
+  font-weight: bold;
+}
